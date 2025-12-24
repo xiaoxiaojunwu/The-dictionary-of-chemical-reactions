@@ -62,8 +62,12 @@ main：
 
 (6)參考資料來源
 附上與LLM相關聊天紀錄
+
 https://chatgpt.com/share/694c00ae-4bb0-8000-adc8-6e8a268821db
+
 https://chatgpt.com/share/694c00c6-d130-8000-b945-365d14c04310
+
 https://chatgpt.com/share/694c00d6-9368-8000-acb0-c6b4e5a62e20
 
 https://chatgpt.com/share/694c00e8-82ec-8000-9033-1ce869275168
+
